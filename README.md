@@ -90,12 +90,6 @@ Fork the repo, create a branch, and submit a pull request. Let’s make Linux le
 
 ---
 
-## Feedback & Support
-
-Have questions or suggestions? Feel free to [open an issue](https://github.com/itssouray/issues)
-
----
-
 Happy learning!  
 Let’s make Linux easy and powerful for everyone
 
