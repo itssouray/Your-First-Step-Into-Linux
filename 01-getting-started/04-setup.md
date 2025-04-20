@@ -26,6 +26,7 @@ docker run -dit \
   --env TZ=Asia/Kolkata \
   --env LANG=en_US.UTF-8 \
   ubuntu:latest /bin/bash
+```
 
 ## Explanation of Parameters
 
